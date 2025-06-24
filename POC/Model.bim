@@ -1,0 +1,48 @@
+{
+  "model": {
+    "culture": "en-US",
+    "dataSources": [],
+    "tables": [
+      {
+        "name": "federated.1jhd570086bse21ftp9490gv21wm",
+        "columns": [
+          {
+            "name": "Sales_Person",
+            "dataType": "string",
+            "isHidden": false
+          },
+          {
+            "name": "Country",
+            "dataType": "string",
+            "isHidden": false
+          },
+          {
+            "name": "Product",
+            "dataType": "string",
+            "isHidden": false
+          },
+          {
+            "name": "Date",
+            "dataType": "DateTime",
+            "isHidden": false
+          },
+          {
+            "name": "Amount",
+            "dataType": "int64",
+            "isHidden": false
+          },
+          {
+            "name": "Boxes_Shipped",
+            "dataType": "int64",
+            "isHidden": false
+          },
+          {
+            "name": "__tableau_internal_object_id__.data_9600CB0E845E447B959437232EAE4E37",
+            "dataType": "string",
+            "isHidden": false
+          }
+        ]
+      }
+    ]
+  }
+}
